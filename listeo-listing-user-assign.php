@@ -3,7 +3,7 @@
 Plugin Name: Listeo Listing User Assign
 Description: A plugin for bulk user creation from custom post type "listing" (with admin listing filter option & pagination).
 Version: 1.0
-Author: Your Name
+Author: George Koulouridhs
 Text Domain: my-listing-user-assign
 */
 
